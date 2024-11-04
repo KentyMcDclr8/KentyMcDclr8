@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KentyMcDclr8, or Faaiz Khan.
-- 👀 I’m interested in anything computer programming, science, and engineering related. And games!
-- 🌱 I’m currently learning about programming languages: how they are made, and database systems.
-- 💞️ I’m looking to collaborate on anything computer programming related. If I had to pick something, it would be game design and development, though.
-- 📫 How to reach me: email me at faaizkhan4444@gmail.com
+- 👀 I’m interested in game development, web development, AI/ML/DS
+- 🌱 I’m currently working on a personal project called Tabletop Cafe.
+- 📫 How to reach me: email me at faaizkhan4444@gmail.com or connect with me on Linkedin at linkedin.com/in/faaizkhan4444
 
 <!---
 KentyMcDclr8/KentyMcDclr8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
